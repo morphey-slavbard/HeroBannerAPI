@@ -1,0 +1,113 @@
+[
+  {
+    "sku": "82",
+    "name": "JACK WILLS",
+    "description": "JERSEY BLAZER",
+    "price": 120,
+    "categories": "Cats|Travel",
+    "image_url": "https://www.frasers.com/images/products/66029522_h.jpg",
+    "url": "/product/82",
+    "group_id": "82",
+    "in_stock": true
+  },
+  {
+    "sku": "83",
+    "name": "POLO RALPH LAUREN",
+    "description": "Bi - Swing Windbreaker Jacket",
+    "price": 49,
+    "categories": "Dogs|Travel",
+    "image_url": "https://www.frasers.com/images/products/60648704_h.jpg",
+    "url": "/product/83",
+    "group_id": "83",
+    "in_stock": true
+  },
+  {
+    "sku": "84",
+    "name": "CALVIN KLEIN JEANS",
+    "description": "ESSENTIALS DOWN JACKET",
+    "price": 210,
+    "categories": "Cats|Bedding",
+    "image_url": "https://www.frasers.com/images/products/62499903_h.jpg",
+    "url": "/product/84",
+    "group_id": "84",
+    "in_stock": true
+  },
+  {
+    "sku": "85",
+    "name": "BARBOUR",
+    "description": "Monty Gilet",
+    "price": 110,
+    "categories": "Cats|Travel",
+    "image_url": "https://www.frasers.com/images/products/62434518_h.jpg",
+    "url": "/product/85",
+    "group_id": "85",
+    "in_stock": true
+  },
+  {
+    "sku": "119",
+    "name": "BARBOUR",
+    "description": "Mellor Gilet",
+    "price": 129,
+    "categories": "Cats|Toys",
+    "image_url": "https://www.frasers.com/images/products/60815419_h.jpg",
+    "url": "/product/119",
+    "group_id": "119",
+    "in_stock": true
+  },
+  {
+    "sku": "122",
+    "name": "BABOUR INTERNATIONAL",
+    "description": "Skyline Overshirt",
+    "price": 149,
+    "categories": "Cats|Travel",
+    "image_url": "https://www.frasers.com/images/products/60713570_h.jpg",
+    "url": "/product/122",
+    "group_id": "122",
+    "in_stock": true
+  },
+  {
+    "sku": "123",
+    "name": "POLO RALPH LAUREN",
+    "description": "BI-SWING WINDBREAKER JACKET",
+    "price": 189,
+    "categories": "Cats|Toys",
+    "image_url": "https://www.frasers.com/images/products/60648722_h.jpg",
+    "url": "/product/123",
+    "group_id": "123",
+    "in_stock": true
+  },
+  {
+    "sku": "124",
+    "name": "BARBOUR",
+    "description": "Powel Quilted Jacket",
+    "price": 179,
+    "categories": "Cats|Bedding",
+    "image_url": "https://www.frasers.com/images/products/60544103_h.jpg",
+    "url": "/product/124",
+    "group_id": "124",
+    "in_stock": true
+  },
+  {
+    "sku": "125",
+    "name": "HUGO",
+    "description": "Hugo Velvert Bomber Sn31",
+    "price": 138,
+    "categories": "Cats|Toys",
+    "image_url": "https://www.frasers.com/images/products/60195703_h.jpg",
+    "url": "/product/125",
+    "group_id": "125",
+    "in_stock": true
+  },
+  {
+    "sku": "126",
+    "name": "BARBOUR",
+    "description": "Frasers Lorden Jacket",
+    "price": 15,
+    "categories": "Cats|Bedding",
+    "image_url": "https://www.frasers.com/images/products/60035918_h.jpg",
+    "url": "/product/126",
+    "group_id": "126",
+    "in_stock": true
+  }
+  
+]
