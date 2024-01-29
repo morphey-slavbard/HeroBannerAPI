@@ -1,7 +1,7 @@
 const request = require('request-promise-native')
 
 
-const APIKEY = '<ADD API KEY HERE';
+const APIKEY = '<ADD API KEY HERE>';
 const DYHOST = 'https://dy-api.com'; 
 
 
